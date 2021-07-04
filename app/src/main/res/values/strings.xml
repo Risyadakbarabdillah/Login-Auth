@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login-Auth</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "621106289230",
+    "firebase_url": "https://fir-authproject-1c716.firebaseio.com",
+    "project_id": "fir-authproject-1c716",
+    "storage_bucket": "fir-authproject-1c716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621106289230:android:fd737345af86d250",
+        "android_client_info": {
+          "package_name": "com.cahyonoz.login_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621106289230-sn16286ofjmieoc9eah0lcefv6ii8nkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ45_-F02xkB9-_lVMUs7b9tKlWKcAAjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621106289230-sn16286ofjmieoc9eah0lcefv6ii8nkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
